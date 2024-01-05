@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e911b2f0.css",
+    "main.js": "/static/js/main.93c36dde.js",
+    "static/media/RubikDoodleShadow-Regular.ttf": "/static/media/RubikDoodleShadow-Regular.e0707082a5c4954d7fdd.ttf",
+    "index.html": "/index.html",
+    "main.e911b2f0.css.map": "/static/css/main.e911b2f0.css.map",
+    "main.93c36dde.js.map": "/static/js/main.93c36dde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e911b2f0.css",
+    "static/js/main.93c36dde.js"
+  ]
+}
